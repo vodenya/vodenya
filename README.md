@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2787F7FF&center=true&width=435&lines=Denys+Voinkov+-+Frontend+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2787F7FF&center=true&width=500&lines=Denys+Voinkov+-+Frontend+Developer)](https://git.io/typing-svg)
 </div>
 
 <div style="margin-bottom: 30px">
@@ -43,7 +43,7 @@
 
 <div id="footer" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/vodenya">
+    <a href="https://www.linkedin.com/in/vodenya">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.facebook.com/vodenya">
