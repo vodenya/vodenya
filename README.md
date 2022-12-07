@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2787F7FF&center=true&width=435&lines=Denys+Voinkov+-+Frontend+Developer)](https://git.io/typing-svg)
 </div>
@@ -36,11 +35,6 @@
   ### :fire: My Stats:
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vodenya&theme=dark&border_radius=5.1&mode=weekly)](https://git.io/streak-stats)
-
-  <br/>
-
-  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vodenya&theme=github_dark)
-  ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vodenya&theme=github_dark)
 </div>
 
 <br/>
